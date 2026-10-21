@@ -1,0 +1,10 @@
+certificates/
+*.key
+*.pem
+*.crt
+*.csr
+*.srl
+*.ext
+__pycache__/
+*.pyc
+.DS_Store
